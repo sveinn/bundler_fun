@@ -1,5 +1,5 @@
 
-####Black box test of Bundler's Gemfile.lock..####
+####Black box test of Bundler's dependency resolution..####
 
 ..for the scenario:
 ```
