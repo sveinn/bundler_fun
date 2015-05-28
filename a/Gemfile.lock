@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    a (1.0.0)
+      b
+
+PATH
+  remote: ..
+  specs:
+    a_prime (1.0.0)
+    b (1.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  a!
+  a_prime

@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    b_prime (1.0.0)
+      bb
+
+PATH
+  remote: ..
+  specs:
+    b_prime_prime (1.0.0)
+    bb (1.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  b_prime!
+  b_prime_prime

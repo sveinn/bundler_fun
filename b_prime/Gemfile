@@ -1,0 +1,4 @@
+path '..'
+
+gemspec
+gem 'b_prime_prime'
