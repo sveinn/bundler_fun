@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     b (1.0.0)
+      c
 
 PATH
   remote: ..
@@ -9,6 +10,7 @@ PATH
     b_prime (1.0.0)
       bb
     bb (1.0.0)
+    c (1.0.0)
 
 GEM
   specs:

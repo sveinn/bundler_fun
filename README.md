@@ -7,7 +7,7 @@
         /
   a'   b' -> bb
  /    /
-a -> b
+a -> b -> c
 ```
 
 *Horizonal arrow:* dependency expressed in gemspec.

@@ -9,6 +9,8 @@ PATH
   specs:
     a_prime (1.0.0)
     b (1.0.0)
+      c
+    c (1.0.0)
 
 GEM
   specs:
